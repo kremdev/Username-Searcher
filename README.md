@@ -54,6 +54,6 @@ npm start
 
 ## Install Project: 
 ```bash
-git clone https://github.com/username/UsernameSearcher.git
+git clone https://github.com/username/Username-Searcher.git
 ```
 
