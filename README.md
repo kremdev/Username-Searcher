@@ -39,7 +39,7 @@ The tool is divided into **three main methods**:
 
 **Example: Checking usernames on Snapchat**
 
-![Example](asstes/example.png)
+![Example](assets/example.png)
 
 ---
 
