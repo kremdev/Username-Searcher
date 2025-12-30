@@ -52,3 +52,8 @@ Or:
 npm start
 ```
 
+## Install Project: 
+```bash
+git clone https://github.com/username/UsernameSearcher.git
+```
+
