@@ -1,5 +1,5 @@
 import axios from "axios";
-import { Platforms, Req } from "../types/types";
+import type { Platforms, Req } from "../types/types";
 import { generateUsername } from "../funcs/generateUsername";
 import { setTimeout as sleep } from "timers/promises";
 import { writeFile } from "../funcs/writeFile";
