@@ -1,5 +1,5 @@
 import { chromium } from "playwright";
-import { Platforms, Req } from "../types/types";
+import type { Platforms, Req } from "../types/types";
 import { setTimeout as sleep } from "timers/promises";
 import { generateUsername } from "../funcs/generateUsername";
 import { writeFile } from "../funcs/writeFile";
